@@ -1,7 +1,3 @@
-# Project Title
-
-This project is a part of my MSc thesis on estimating a reservoir's water volume based on multi-mission altimetry data.
-
 ## Overview
 
 This project is dedicated to simplifying the process of accessing water level time series data from two prominent altimetry-based datasets: DAHITI and HydroWeb.
@@ -21,14 +17,14 @@ Whether you are working on hydrological modeling, environmental monitoring, or w
 
 ### Example Output
 
-**Example 01** Dataframe of all available stations from both DAHITI & Hydroweb.
+**Example 01** Virtual station time series from DAHITI.
 ![Example Output](02%20Outputs/02_Dahiti_Exports/02_Dahiti_Exports/17705_Dahiti.png)
 
-**Example 02** Virtual station time series from DAHITI.
+**Example 02** Virtual station time series from Hydroweb.
 ![Example Output](02%20Outputs/02_Hydroweb_Exports/02_Hydroweb_Exports/0000000007836_Hydroweb.png)
 
 
-**Example 03** Virtual station time series from Hydroweb.
+**Example 03** Dataframe of all available stations from both DAHITI & Hydroweb.
 
 <div style="text-align: center;">
   <img src="03%20Media/p2_All_Stations_Dataframe.png" alt="Example 03 Output">
@@ -40,3 +36,7 @@ Whether you are working on hydrological modeling, environmental monitoring, or w
 <div style="text-align: center;">
   <img src="03%20Media/p1%20Vstations%20on%20the%20Nile%20Basin.png" alt="Example 04 Output">
 </div>
+
+
+### Disclaimer
+*This project is a part of my MSc thesis on estimating a reservoir's water volume based on multi-mission altimetry data.*
