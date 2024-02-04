@@ -1,6 +1,6 @@
 # Project Title
 
-Accessing-Water-Level-Time-Series-Data-from-DAHITI-and-HydroWeb-Next-API
+This project is a part of my MSc thesis on estimating a reservoir's water volume based on multi-mission altimetry data.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project is dedicated to simplifying the process of accessing water level ti
 
 ### DAHITI Dataset
 
-[DAHITI](https://dahiti.dgfi.tum.de/) provides digital elevation models specifically designed for hydrological and ice tracking applications. It employs satellite altimetry data to derive precise water surface elevations globally. The dataset is a valuable resource for researchers, hydrologists, and environmental scientists, offering a comprehensive and accurate representation of water bodies.
+[DAHITI](https://dahiti.dgfi.tum.de/) provides digital elevation models specifically designed for hydrological and ice-tracking applications. It employs satellite altimetry data to derive precise water surface elevations globally. The dataset is a valuable resource for researchers, hydrologists, and environmental scientists, offering a comprehensive and accurate representation of water bodies.
 
 ### HydroWeb Altimetry-Based Dataset
 
