@@ -29,7 +29,14 @@ Whether you are working on hydrological modeling, environmental monitoring, or w
 
 
 **Example 03** Virtual station time series from Hydroweb.
-![Example Output](03%20Media/p2_All_Stations_Dataframe.png)
+
+<div style="text-align: center;">
+  <img src="03%20Media/p2_All_Stations_Dataframe.png" alt="Example 03 Output">
+</div>
+
 
 **Example 04** All the available virtual stations in the Region of interest.
-![Example Output](03%20Media/p1%20Vstations%20on%20the%20Nile%20Basin.png)
+
+<div style="text-align: center;">
+  <img src="03%20Media/p1%20Vstations%20on%20the%20Nile%20Basin.png" alt="Example 04 Output">
+</div>
